@@ -1,0 +1,1 @@
+{"dbVersion":1,"version":11,"link":"com.dodgingpixels.kccopro","expired_version":0,"alert":"This app has expired. Please contact the developer.","interval":0}
